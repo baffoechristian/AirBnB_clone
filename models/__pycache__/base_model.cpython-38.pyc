@@ -1,0 +1,134 @@
+o
+ ) zDefines the BaseModel class.é    N)o
+    ø£ïbo  ã               Úuuid4)o
+ )
+ t
+j 
+| ¡ )
+ )
+ dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )
+   Ú
+created_atÚ
+  t
+j 
+| ¡ )
+ )
+ dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )
+   Ú
+created_atÚ
+
+ t
+j 
+| ¡ )
+ )
+ dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )
+   Ú
+created_atÚ
+
+ t
+j 
+| ¡ )
+ )
+ dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )
+   Ú
+created_atÚ
+ t
+j 
+| ¡ )
+ )
+ dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )
+   Ú
+created_atÚ
+created_atÚ t
+j 
+| ¡ )
+ )
+ dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )
+   Ú
+created_atÚ
+created_atÚ t
+j 
+| ¡ )
+ )
+ dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )
+   Ú
+created_atÚ
+	 t
+j 
+| ¡ )
+ )
+ dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )
+   Ú
+created_atÚ
+üzaseModel.__init__c t
+j 
+| ¡ )
+ )
+ dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )
+   Ú
+created_atÚ
+            t
+j 
+| ¡ )
+ )
+ dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )
+   Ú
+created_atÚ
+   ncludes the key/value pair __class__ representing
+        the class name of the object.
+        r   r   Ú	__class__) r
+tr__0   s  zBaseModel.__str__Nr   Ú
+__module__Ú__qualname__Ú __doc__r   r   r   r   r   r   r      r     s   ncludes the key/value pair __class__ representing
+        the class name of the object.
+        r   r   Ú	__class__) r
+Úcopyr   Z	isoformatr  r   )r"   representing   Zuuidr  copyr   Z	isoformatr   r   C   s 
